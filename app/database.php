@@ -15,11 +15,11 @@ return [
     // 服务器地址
     'hostname'       => 'localhost',
     // 数据库名
-    'database'       => 'hqcms-server',
+    'database'       => 'hqcms',
     // 用户名
-    'username'       => 'root',
+    'username'       => 'hqcms',
     // 密码
-    'password'       => 'deze',
+    'password'       => 'hqcms888',
     // 端口
     'hostport'       => '3306',
     // 连接dsn
