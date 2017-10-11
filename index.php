@@ -19,7 +19,7 @@ define('APP_PATH', __DIR__ . '/app/');
 define('WEB_SITE',__DIR__);
 
 // 定义公共文件目录
-define('PUBLIC_PATH', 'http://localhost/hqcms-server/public/');
+define('PUBLIC_PATH', 'http://139.199.187.44:80/public/');
 
 //定义模板文件目录
 define('TMPL_PATH', __DIR__ . '/template/');
